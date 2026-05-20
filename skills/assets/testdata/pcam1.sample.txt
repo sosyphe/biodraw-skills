@@ -1,0 +1,16 @@
+sample	group
+QC_01	QC
+QC_02	QC
+QC_03	QC
+GroupA_1	GroupA
+GroupA_2	GroupA
+GroupA_3	GroupA
+GroupA_4	GroupA
+GroupB_1	GroupB
+GroupB_2	GroupB
+GroupB_3	GroupB
+GroupB_4	GroupB
+GroupC_1	GroupC
+GroupC_2	GroupC
+GroupC_3	GroupC
+GroupC_4	GroupC

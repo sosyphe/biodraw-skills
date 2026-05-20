@@ -1,0 +1,9 @@
+Pathway	GeneInfo
+Pathway_001	Gene_A/Gene_B/Gene_C/Gene_D
+Pathway_002	Gene_E/Gene_F/Gene_G/Gene_H/Gene_I
+Pathway_003	Gene_J/Gene_K/Gene_L
+Pathway_004	Gene_M/Gene_N
+Pathway_005	Gene_O/Gene_P/Gene_Q/Gene_R
+Pathway_006	Gene_S/Gene_T
+Pathway_007	Gene_U/Gene_V/Gene_W
+Pathway_008	Gene_X/Gene_Y/Gene_Z

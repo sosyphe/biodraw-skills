@@ -1,0 +1,506 @@
+ID	PathwayID	PathwayDescription
+Gene_052	hsa04740	Olfactory transduction
+Gene_069	hsa04740	Olfactory transduction
+Gene_068	hsa04740	Olfactory transduction
+Gene_058	hsa03460	Fanconi anemia pathway
+Gene_058	hsa04330	Notch signaling pathway
+Gene_058	hsa04950	Maturity onset diabetes of the young
+Gene_058	hsa05165	Human papillomavirus infection
+Gene_058	hsa05169	Epstein-Barr virus infection
+Gene_058	hsa05200	Pathways in cancer
+Gene_058	hsa05224	Breast cancer
+Gene_058	hsa05165	Human papillomavirus infection
+Gene_055	hsa03320	PPAR signaling pathway
+Gene_055	hsa04120	Ubiquitin mediated proteolysis
+Gene_055	hsa04137	Mitophagy - animal
+Gene_055	hsa04140	Autophagy - animal
+Gene_055	hsa05012	Parkinson disease
+Gene_055	hsa05022	Pathways of neurodegeneration - multiple diseases
+Gene_055	hsa05131	Shigellosis
+Gene_055	hsa05167	Kaposi sarcoma-associated herpesvirus infection
+Gene_055	hsa04622	RIG-I-like receptor signaling pathway
+Gene_055	hsa05165	Human papillomavirus infection
+Gene_055	hsa05169	Epstein-Barr virus infection
+Gene_055	hsa05171	Coronavirus disease - COVID-19
+Gene_057	hsa04512	ECM-receptor interaction
+Gene_054	hsa04060	Cytokine-cytokine receptor interaction
+Gene_053	hsa04060	Cytokine-cytokine receptor interaction
+Gene_050	hsa00532	Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+Gene_050	hsa00534	Glycosaminoglycan biosynthesis - heparan sulfate / heparin
+Gene_038	hsa04120	Ubiquitin mediated proteolysis
+Gene_038	hsa04141	Protein processing in endoplasmic reticulum
+Gene_038	hsa05012	Parkinson disease
+Gene_038	hsa05022	Pathways of neurodegeneration - multiple diseases
+Gene_023	hsa04144	Endocytosis
+Gene_041	hsa04742	Taste transduction
+Gene_041	hsa04973	Carbohydrate digestion and absorption
+Gene_015	hsa04150	mTOR signaling pathway
+Gene_015	hsa04310	Wnt signaling pathway
+Gene_015	hsa04330	Notch signaling pathway
+Gene_015	hsa04390	Hippo signaling pathway
+Gene_015	hsa04550	Signaling pathways regulating pluripotency of stem cells
+Gene_015	hsa04916	Melanogenesis
+Gene_015	hsa04934	Cushing syndrome
+Gene_015	hsa05010	Alzheimer disease
+Gene_015	hsa05022	Pathways of neurodegeneration - multiple diseases
+Gene_015	hsa05165	Human papillomavirus infection
+Gene_015	hsa05200	Pathways in cancer
+Gene_015	hsa05217	Basal cell carcinoma
+Gene_015	hsa05224	Breast cancer
+Gene_015	hsa05225	Hepatocellular carcinoma
+Gene_015	hsa05226	Gastric cancer
+Gene_064	hsa03410	Base excision repair
+Gene_064	hsa03083	Polycomb repressive complex
+Gene_064	hsa04550	Signaling pathways regulating pluripotency of stem cells
+Gene_064	hsa05202	Transcriptional misregulation in cancer
+Gene_064	hsa05206	MicroRNAs in cancer
+Gene_066	hsa03010	Ribosome
+Gene_037	hsa03015	mRNA surveillance pathway
+Gene_060	hsa05417	Lipid and atherosclerosis
+Gene_001	hsa00760	Nicotinate and nicotinamide metabolism
+Gene_012	hsa04014	Ras signaling pathway
+Gene_012	hsa04062	Chemokine signaling pathway
+Gene_012	hsa04151	PI3K-Akt signaling pathway
+Gene_012	hsa04371	Apelin signaling pathway
+Gene_012	hsa04713	Circadian entrainment
+Gene_012	hsa04723	Retrograde endocannabinoid signaling
+Gene_012	hsa04724	Glutamatergic synapse
+Gene_012	hsa04725	Cholinergic synapse
+Gene_012	hsa04726	Serotonergic synapse
+Gene_012	hsa04727	GABAergic synapse
+Gene_012	hsa04728	Dopaminergic synapse
+Gene_012	hsa04740	Olfactory transduction
+Gene_012	hsa04744	Phototransduction
+Gene_012	hsa04926	Relaxin signaling pathway
+Gene_012	hsa05032	Morphine addiction
+Gene_012	hsa05034	Alcoholism
+Gene_012	hsa05163	Human cytomegalovirus infection
+Gene_012	hsa05167	Kaposi sarcoma-associated herpesvirus infection
+Gene_012	hsa05170	Human immunodeficiency virus 1 infection
+Gene_012	hsa05200	Pathways in cancer
+Gene_040	hsa04014	Ras signaling pathway
+Gene_040	hsa04015	Rap1 signaling pathway
+Gene_040	hsa04020	Calcium signaling pathway
+Gene_040	hsa04022	cGMP-PKG signaling pathway
+Gene_040	hsa04024	cAMP signaling pathway
+Gene_040	hsa04070	Phosphatidylinositol signaling system
+Gene_040	hsa04114	Oocyte meiosis
+Gene_040	hsa04218	Cellular senescence
+Gene_040	hsa04261	Adrenergic signaling in cardiomyocytes
+Gene_040	hsa04270	Vascular smooth muscle contraction
+Gene_040	hsa04371	Apelin signaling pathway
+Gene_040	hsa04625	C-type lectin receptor signaling pathway
+Gene_040	hsa04713	Circadian entrainment
+Gene_040	hsa04720	Long-term potentiation
+Gene_040	hsa04722	Neurotrophin signaling pathway
+Gene_040	hsa04728	Dopaminergic synapse
+Gene_040	hsa04740	Olfactory transduction
+Gene_040	hsa04744	Phototransduction
+Gene_040	hsa04750	Inflammatory mediator regulation of TRP channels
+Gene_040	hsa04910	Insulin signaling pathway
+Gene_040	hsa04912	GnRH signaling pathway
+Gene_040	hsa04915	Estrogen signaling pathway
+Gene_040	hsa04916	Melanogenesis
+Gene_040	hsa04921	Oxytocin signaling pathway
+Gene_040	hsa04922	Glucagon signaling pathway
+Gene_040	hsa04924	Renin secretion
+Gene_040	hsa04925	Aldosterone synthesis and secretion
+Gene_040	hsa04970	Salivary secretion
+Gene_040	hsa04971	Gastric acid secretion
+Gene_040	hsa05010	Alzheimer disease
+Gene_040	hsa05012	Parkinson disease
+Gene_040	hsa05022	Pathways of neurodegeneration - multiple diseases
+Gene_040	hsa05031	Amphetamine addiction
+Gene_040	hsa05034	Alcoholism
+Gene_040	hsa05133	Pertussis
+Gene_040	hsa05152	Tuberculosis
+Gene_040	hsa05163	Human cytomegalovirus infection
+Gene_040	hsa05167	Kaposi sarcoma-associated herpesvirus infection
+Gene_040	hsa05170	Human immunodeficiency virus 1 infection
+Gene_040	hsa05200	Pathways in cancer
+Gene_040	hsa05214	Glioma
+Gene_040	hsa05417	Lipid and atherosclerosis
+Gene_040	hsa05418	Fluid shear stress and atherosclerosis
+Gene_056	hsa04080	Neuroactive ligand-receptor interaction
+Gene_056	hsa04723	Retrograde endocannabinoid signaling
+Gene_056	hsa04726	Serotonergic synapse
+Gene_056	hsa04727	GABAergic synapse
+Gene_056	hsa05032	Morphine addiction
+Gene_056	hsa05033	Nicotine addiction
+Gene_056	hsa04080	Neuroactive ligand-receptor interaction
+Gene_056	hsa04723	Retrograde endocannabinoid signaling
+Gene_056	hsa04727	GABAergic synapse
+Gene_056	hsa05032	Morphine addiction
+Gene_056	hsa05033	Nicotine addiction
+Gene_009	hsa04015	Rap1 signaling pathway
+Gene_009	hsa04062	Chemokine signaling pathway
+Gene_009	hsa04071	Sphingolipid signaling pathway
+Gene_009	hsa04144	Endocytosis
+Gene_009	hsa04360	Axon guidance
+Gene_009	hsa04390	Hippo signaling pathway
+Gene_009	hsa04530	Tight junction
+Gene_009	hsa04611	Platelet activation
+Gene_009	hsa04910	Insulin signaling pathway
+Gene_009	hsa04926	Relaxin signaling pathway
+Gene_009	hsa04930	Type II diabetes mellitus
+Gene_009	hsa04931	Insulin resistance
+Gene_009	hsa04933	AGE-RAGE signaling pathway in diabetic complications
+Gene_009	hsa05165	Human papillomavirus infection
+Gene_009	hsa05415	Diabetic cardiomyopathy
+Gene_009	hsa05418	Fluid shear stress and atherosclerosis
+Gene_035	hsa04350	TGF-beta signaling pathway
+Gene_035	hsa04550	Signaling pathways regulating pluripotency of stem cells
+Gene_034	hsa04146	Peroxisome
+Gene_030	hsa00562	Inositol phosphate metabolism
+Gene_033	hsa00770	Pantothenate and CoA biosynthesis
+Gene_061	hsa04330	Notch signaling pathway
+Gene_061	hsa05165	Human papillomavirus infection
+Gene_061	hsa05200	Pathways in cancer
+Gene_061	hsa05224	Breast cancer
+Gene_032	hsa03266	Virion - Herpesvirus
+Gene_032	hsa04060	Cytokine-cytokine receptor interaction
+Gene_032	hsa04061	Viral protein interaction with cytokine and cytokine receptor
+Gene_032	hsa05168	Herpes simplex virus 1 infection
+Gene_031	hsa00590	Arachidonic acid metabolism
+Gene_026	hsa04614	Renin-angiotensin system
+Gene_026	hsa04640	Hematopoietic cell lineage
+Gene_026	hsa04974	Protein digestion and absorption
+Gene_026	hsa05010	Alzheimer disease
+Gene_027	hsa00310	Lysine degradation
+Gene_027	hsa04010	MAPK signaling pathway
+Gene_027	hsa05200	Pathways in cancer
+Gene_027	hsa05220	Chronic myeloid leukemia
+Gene_027	hsa00310	Lysine degradation
+Gene_027	hsa04714	Thermogenesis
+Gene_021	hsa04360	Axon guidance
+Gene_021	hsa05100	Bacterial invasion of epithelial cells
+Gene_021	hsa05132	Salmonella infection
+Gene_013	hsa01522	Endocrine resistance
+Gene_013	hsa01524	Platinum drug resistance
+Gene_013	hsa04010	MAPK signaling pathway
+Gene_013	hsa04071	Sphingolipid signaling pathway
+Gene_013	hsa04110	Cell cycle
+Gene_013	hsa04115	p53 signaling pathway
+Gene_013	hsa04137	Mitophagy - animal
+Gene_013	hsa04151	PI3K-Akt signaling pathway
+Gene_013	hsa04210	Apoptosis
+Gene_013	hsa04211	Longevity regulating pathway
+Gene_013	hsa04216	Ferroptosis
+Gene_013	hsa04218	Cellular senescence
+Gene_013	hsa04310	Wnt signaling pathway
+Gene_013	hsa04722	Neurotrophin signaling pathway
+Gene_013	hsa04919	Thyroid hormone signaling pathway
+Gene_013	hsa05012	Parkinson disease
+Gene_013	hsa05014	Amyotrophic lateral sclerosis
+Gene_013	hsa05016	Huntington disease
+Gene_013	hsa05131	Shigellosis
+Gene_013	hsa05160	Hepatitis C
+Gene_013	hsa05161	Hepatitis B
+Gene_013	hsa05162	Measles
+Gene_013	hsa05163	Human cytomegalovirus infection
+Gene_013	hsa05165	Human papillomavirus infection
+Gene_013	hsa05166	Human T-cell leukemia virus 1 infection
+Gene_013	hsa05167	Kaposi sarcoma-associated herpesvirus infection
+Gene_013	hsa05168	Herpes simplex virus 1 infection
+Gene_013	hsa05169	Epstein-Barr virus infection
+Gene_013	hsa05200	Pathways in cancer
+Gene_013	hsa05202	Transcriptional misregulation in cancer
+Gene_013	hsa05203	Viral carcinogenesis
+Gene_013	hsa05205	Proteoglycans in cancer
+Gene_013	hsa05206	MicroRNAs in cancer
+Gene_013	hsa05210	Colorectal cancer
+Gene_013	hsa05212	Pancreatic cancer
+Gene_013	hsa05213	Endometrial cancer
+Gene_013	hsa05214	Glioma
+Gene_013	hsa05215	Prostate cancer
+Gene_013	hsa05216	Thyroid cancer
+Gene_013	hsa05217	Basal cell carcinoma
+Gene_013	hsa05218	Melanoma
+Gene_013	hsa05219	Bladder cancer
+Gene_013	hsa05220	Chronic myeloid leukemia
+Gene_013	hsa05222	Small cell lung cancer
+Gene_013	hsa05223	Non-small cell lung cancer
+Gene_013	hsa05224	Breast cancer
+Gene_013	hsa05225	Hepatocellular carcinoma
+Gene_013	hsa05226	Gastric cancer
+Gene_013	hsa05230	Central carbon metabolism in cancer
+Gene_013	hsa05417	Lipid and atherosclerosis
+Gene_013	hsa05418	Fluid shear stress and atherosclerosis
+Gene_013	hsa04115	p53 signaling pathway
+Gene_013	hsa04390	Hippo signaling pathway
+Gene_013	hsa04722	Neurotrophin signaling pathway
+Gene_013	hsa05162	Measles
+Gene_013	hsa05206	MicroRNAs in cancer
+Gene_039	hsa04210	Apoptosis
+Gene_018	hsa03082	ATP-dependent chromatin remodeling
+Gene_018	hsa03082	ATP-dependent chromatin remodeling
+Gene_018	hsa05165	Human papillomavirus infection
+Gene_018	hsa05203	Viral carcinogenesis
+Gene_070	hsa03010	Ribosome
+Gene_070	hsa05171	Coronavirus disease - COVID-19
+Gene_017	hsa03010	Ribosome
+Gene_017	hsa05171	Coronavirus disease - COVID-19
+Gene_016	hsa00900	Terpenoid backbone biosynthesis
+Gene_048	hsa05165	Human papillomavirus infection
+Gene_014	hsa00062	Fatty acid elongation
+Gene_014	hsa01040	Biosynthesis of unsaturated fatty acids
+Gene_010	hsa05165	Human papillomavirus infection
+Gene_063	hsa04010	MAPK signaling pathway
+Gene_063	hsa04060	Cytokine-cytokine receptor interaction
+Gene_063	hsa04061	Viral protein interaction with cytokine and cytokine receptor
+Gene_063	hsa04064	NF-kappa B signaling pathway
+Gene_063	hsa04071	Sphingolipid signaling pathway
+Gene_063	hsa04150	mTOR signaling pathway
+Gene_063	hsa04210	Apoptosis
+Gene_063	hsa04215	Apoptosis - multiple species
+Gene_063	hsa04217	Necroptosis
+Gene_063	hsa04380	Osteoclast differentiation
+Gene_063	hsa04668	TNF signaling pathway
+Gene_063	hsa04920	Adipocytokine signaling pathway
+Gene_063	hsa04931	Insulin resistance
+Gene_063	hsa04932	Non-alcoholic fatty liver disease
+Gene_063	hsa04936	Alcoholic liver disease
+Gene_063	hsa05010	Alzheimer disease
+Gene_063	hsa05014	Amyotrophic lateral sclerosis
+Gene_063	hsa05022	Pathways of neurodegeneration - multiple diseases
+Gene_063	hsa05130	Pathogenic Escherichia coli infection
+Gene_063	hsa05131	Shigellosis
+Gene_063	hsa05132	Salmonella infection
+Gene_063	hsa05142	Chagas disease
+Gene_063	hsa05145	Toxoplasmosis
+Gene_063	hsa05152	Tuberculosis
+Gene_063	hsa05160	Hepatitis C
+Gene_063	hsa05163	Human cytomegalovirus infection
+Gene_063	hsa05164	Influenza A
+Gene_063	hsa05165	Human papillomavirus infection
+Gene_063	hsa05166	Human T-cell leukemia virus 1 infection
+Gene_063	hsa05167	Kaposi sarcoma-associated herpesvirus infection
+Gene_063	hsa05168	Herpes simplex virus 1 infection
+Gene_063	hsa05170	Human immunodeficiency virus 1 infection
+Gene_063	hsa05171	Coronavirus disease - COVID-19
+Gene_063	hsa05417	Lipid and atherosclerosis
+Gene_063	hsa05418	Fluid shear stress and atherosclerosis
+Gene_063	hsa04060	Cytokine-cytokine receptor interaction
+Gene_063	hsa04064	NF-kappa B signaling pathway
+Gene_063	hsa04115	p53 signaling pathway
+Gene_063	hsa04210	Apoptosis
+Gene_044	hsa05200	Pathways in cancer
+Gene_047	hsa04742	Taste transduction
+Gene_004	hsa04130	SNARE interactions in vesicular transport
+Gene_004	hsa04145	Phagosome
+Gene_005	hsa04710	Circadian rhythm
+Gene_005	hsa04713	Circadian entrainment
+Gene_006	hsa04080	Neuroactive ligand-receptor interaction
+Gene_007	hsa04060	Cytokine-cytokine receptor interaction
+Gene_019	hsa05012	Parkinson disease
+Gene_019	hsa05022	Pathways of neurodegeneration - multiple diseases
+Gene_011	hsa00010	Glycolysis / Gluconeogenesis
+Gene_011	hsa03018	RNA degradation
+Gene_011	hsa04066	HIF-1 signaling pathway
+Gene_024	hsa00910	Nitrogen metabolism
+Gene_059	hsa04068	FoxO signaling pathway
+Gene_059	hsa04152	AMPK signaling pathway
+Gene_059	hsa04910	Insulin signaling pathway
+Gene_059	hsa04920	Adipocytokine signaling pathway
+Gene_059	hsa04930	Type II diabetes mellitus
+Gene_059	hsa04931	Insulin resistance
+Gene_059	hsa05415	Diabetic cardiomyopathy
+Gene_059	hsa04066	HIF-1 signaling pathway
+Gene_059	hsa04911	Insulin secretion
+Gene_059	hsa04919	Thyroid hormone signaling pathway
+Gene_059	hsa04920	Adipocytokine signaling pathway
+Gene_059	hsa04922	Glucagon signaling pathway
+Gene_059	hsa04931	Insulin resistance
+Gene_059	hsa04976	Bile secretion
+Gene_059	hsa05166	Human T-cell leukemia virus 1 infection
+Gene_059	hsa05200	Pathways in cancer
+Gene_059	hsa05211	Renal cell carcinoma
+Gene_059	hsa05230	Central carbon metabolism in cancer
+Gene_059	hsa05415	Diabetic cardiomyopathy
+Gene_059	hsa04973	Carbohydrate digestion and absorption
+Gene_025	hsa04068	FoxO signaling pathway
+Gene_025	hsa04152	AMPK signaling pathway
+Gene_025	hsa04910	Insulin signaling pathway
+Gene_025	hsa04920	Adipocytokine signaling pathway
+Gene_025	hsa04930	Type II diabetes mellitus
+Gene_025	hsa04931	Insulin resistance
+Gene_025	hsa05415	Diabetic cardiomyopathy
+Gene_025	hsa04066	HIF-1 signaling pathway
+Gene_025	hsa04911	Insulin secretion
+Gene_025	hsa04919	Thyroid hormone signaling pathway
+Gene_025	hsa04920	Adipocytokine signaling pathway
+Gene_025	hsa04922	Glucagon signaling pathway
+Gene_025	hsa04931	Insulin resistance
+Gene_025	hsa04976	Bile secretion
+Gene_025	hsa05166	Human T-cell leukemia virus 1 infection
+Gene_025	hsa05200	Pathways in cancer
+Gene_025	hsa05211	Renal cell carcinoma
+Gene_025	hsa05230	Central carbon metabolism in cancer
+Gene_025	hsa05415	Diabetic cardiomyopathy
+Gene_025	hsa04973	Carbohydrate digestion and absorption
+Gene_003	hsa00030	Pentose phosphate pathway
+Gene_043	hsa00562	Inositol phosphate metabolism
+Gene_043	hsa01521	EGFR tyrosine kinase inhibitor resistance
+Gene_043	hsa01522	Endocrine resistance
+Gene_043	hsa01524	Platinum drug resistance
+Gene_043	hsa04012	ErbB signaling pathway
+Gene_043	hsa04014	Ras signaling pathway
+Gene_043	hsa04015	Rap1 signaling pathway
+Gene_043	hsa04024	cAMP signaling pathway
+Gene_043	hsa04062	Chemokine signaling pathway
+Gene_043	hsa04066	HIF-1 signaling pathway
+Gene_043	hsa04068	FoxO signaling pathway
+Gene_043	hsa04070	Phosphatidylinositol signaling system
+Gene_043	hsa04071	Sphingolipid signaling pathway
+Gene_043	hsa04072	Phospholipase D signaling pathway
+Gene_043	hsa04140	Autophagy - animal
+Gene_043	hsa04150	mTOR signaling pathway
+Gene_043	hsa04151	PI3K-Akt signaling pathway
+Gene_043	hsa04152	AMPK signaling pathway
+Gene_043	hsa04210	Apoptosis
+Gene_043	hsa04211	Longevity regulating pathway
+Gene_043	hsa04213	Longevity regulating pathway - multiple species
+Gene_043	hsa04218	Cellular senescence
+Gene_043	hsa04360	Axon guidance
+Gene_043	hsa04370	VEGF signaling pathway
+Gene_043	hsa04380	Osteoclast differentiation
+Gene_043	hsa04510	Focal adhesion
+Gene_043	hsa04550	Signaling pathways regulating pluripotency of stem cells
+Gene_043	hsa04611	Platelet activation
+Gene_043	hsa04613	Neutrophil extracellular trap formation
+Gene_043	hsa04620	Toll-like receptor signaling pathway
+Gene_043	hsa04625	C-type lectin receptor signaling pathway
+Gene_043	hsa04630	JAK-STAT signaling pathway
+Gene_043	hsa04650	Natural killer cell mediated cytotoxicity
+Gene_043	hsa04660	T cell receptor signaling pathway
+Gene_043	hsa04662	B cell receptor signaling pathway
+Gene_043	hsa04664	Fc epsilon RI signaling pathway
+Gene_043	hsa04666	Fc gamma R-mediated phagocytosis
+Gene_043	hsa04668	TNF signaling pathway
+Gene_043	hsa04670	Leukocyte transendothelial migration
+Gene_043	hsa04722	Neurotrophin signaling pathway
+Gene_043	hsa04725	Cholinergic synapse
+Gene_043	hsa04750	Inflammatory mediator regulation of TRP channels
+Gene_043	hsa04810	Regulation of actin cytoskeleton
+Gene_043	hsa04910	Insulin signaling pathway
+Gene_043	hsa04914	Progesterone-mediated oocyte maturation
+Gene_043	hsa04915	Estrogen signaling pathway
+Gene_043	hsa04917	Prolactin signaling pathway
+Gene_043	hsa04919	Thyroid hormone signaling pathway
+Gene_043	hsa04923	Regulation of lipolysis in adipocytes
+Gene_043	hsa04926	Relaxin signaling pathway
+Gene_043	hsa04929	GnRH secretion
+Gene_043	hsa04930	Type II diabetes mellitus
+Gene_043	hsa04931	Insulin resistance
+Gene_043	hsa04932	Non-alcoholic fatty liver disease
+Gene_043	hsa04933	AGE-RAGE signaling pathway in diabetic complications
+Gene_043	hsa04935	Growth hormone synthesis, secretion and action
+Gene_043	hsa04960	Aldosterone-regulated sodium reabsorption
+Gene_043	hsa04973	Carbohydrate digestion and absorption
+Gene_043	hsa05010	Alzheimer disease
+Gene_043	hsa05017	Spinocerebellar ataxia
+Gene_043	hsa05020	Prion disease
+Gene_043	hsa05100	Bacterial invasion of epithelial cells
+Gene_043	hsa05131	Shigellosis
+Gene_043	hsa05132	Salmonella infection
+Gene_043	hsa05135	Yersinia infection
+Gene_043	hsa05142	Chagas disease
+Gene_043	hsa05146	Amoebiasis
+Gene_043	hsa05160	Hepatitis C
+Gene_043	hsa05161	Hepatitis B
+Gene_043	hsa05162	Measles
+Gene_043	hsa05163	Human cytomegalovirus infection
+Gene_043	hsa05164	Influenza A
+Gene_043	hsa05165	Human papillomavirus infection
+Gene_043	hsa05166	Human T-cell leukemia virus 1 infection
+Gene_043	hsa05167	Kaposi sarcoma-associated herpesvirus infection
+Gene_043	hsa05168	Herpes simplex virus 1 infection
+Gene_043	hsa05169	Epstein-Barr virus infection
+Gene_043	hsa05170	Human immunodeficiency virus 1 infection
+Gene_043	hsa05171	Coronavirus disease - COVID-19
+Gene_043	hsa05200	Pathways in cancer
+Gene_043	hsa05203	Viral carcinogenesis
+Gene_043	hsa05205	Proteoglycans in cancer
+Gene_043	hsa05206	MicroRNAs in cancer
+Gene_043	hsa05207	Chemical carcinogenesis - receptor activation
+Gene_043	hsa05208	Chemical carcinogenesis - reactive oxygen species
+Gene_043	hsa05210	Colorectal cancer
+Gene_043	hsa05211	Renal cell carcinoma
+Gene_043	hsa05212	Pancreatic cancer
+Gene_043	hsa05213	Endometrial cancer
+Gene_043	hsa05214	Glioma
+Gene_043	hsa05215	Prostate cancer
+Gene_043	hsa05218	Melanoma
+Gene_043	hsa05220	Chronic myeloid leukemia
+Gene_043	hsa05221	Acute myeloid leukemia
+Gene_043	hsa05222	Small cell lung cancer
+Gene_043	hsa05223	Non-small cell lung cancer
+Gene_043	hsa05224	Breast cancer
+Gene_043	hsa05225	Hepatocellular carcinoma
+Gene_043	hsa05226	Gastric cancer
+Gene_043	hsa05230	Central carbon metabolism in cancer
+Gene_043	hsa05231	Choline metabolism in cancer
+Gene_043	hsa05235	PD-L1 expression and PD-1 checkpoint pathway in cancer
+Gene_043	hsa05415	Diabetic cardiomyopathy
+Gene_043	hsa05417	Lipid and atherosclerosis
+Gene_043	hsa05418	Fluid shear stress and atherosclerosis
+Gene_042	hsa04310	Wnt signaling pathway
+Gene_051	hsa04310	Wnt signaling pathway
+Gene_046	hsa00760	Nicotinate and nicotinamide metabolism
+Gene_022	hsa04120	Ubiquitin mediated proteolysis
+Gene_022	hsa04141	Protein processing in endoplasmic reticulum
+Gene_008	hsa04814	Motor proteins
+Gene_029	hsa00030	Pentose phosphate pathway
+Gene_029	hsa00480	Glutathione metabolism
+Gene_029	hsa03460	Fanconi anemia pathway
+Gene_067	hsa03460	Fanconi anemia pathway
+Gene_049	hsa03460	Fanconi anemia pathway
+Gene_065	hsa04080	Neuroactive ligand-receptor interaction
+Gene_036	hsa04210	Apoptosis
+Gene_028	hsa04146	Peroxisome
+Gene_002	hsa04610	Complement and coagulation cascades
+Gene_002	hsa05150	Staphylococcus aureus infection
+Gene_002	hsa05171	Coronavirus disease - COVID-19
+Gene_002	hsa04610	Complement and coagulation cascades
+Gene_002	hsa05150	Staphylococcus aureus infection
+Gene_002	hsa05171	Coronavirus disease - COVID-19
+Gene_020	hsa00270	Cysteine and methionine metabolism
+Gene_020	hsa00330	Arginine and proline metabolism
+Gene_020	hsa00480	Glutathione metabolism
+Gene_045	hsa03018	RNA degradation
+Gene_062	hsa01521	EGFR tyrosine kinase inhibitor resistance
+Gene_062	hsa01522	Endocrine resistance
+Gene_062	hsa04012	ErbB signaling pathway
+Gene_062	hsa04066	HIF-1 signaling pathway
+Gene_062	hsa04072	Phospholipase D signaling pathway
+Gene_062	hsa04136	Autophagy - other
+Gene_062	hsa04140	Autophagy - animal
+Gene_062	hsa04150	mTOR signaling pathway
+Gene_062	hsa04151	PI3K-Akt signaling pathway
+Gene_062	hsa04152	AMPK signaling pathway
+Gene_062	hsa04211	Longevity regulating pathway
+Gene_062	hsa04213	Longevity regulating pathway - multiple species
+Gene_062	hsa04218	Cellular senescence
+Gene_062	hsa04371	Apelin signaling pathway
+Gene_062	hsa04613	Neutrophil extracellular trap formation
+Gene_062	hsa04630	JAK-STAT signaling pathway
+Gene_062	hsa04659	Th17 cell differentiation
+Gene_062	hsa04714	Thermogenesis
+Gene_062	hsa04910	Insulin signaling pathway
+Gene_062	hsa04919	Thyroid hormone signaling pathway
+Gene_062	hsa04920	Adipocytokine signaling pathway
+Gene_062	hsa04930	Type II diabetes mellitus
+Gene_062	hsa04931	Insulin resistance
+Gene_062	hsa04935	Growth hormone synthesis, secretion and action
+Gene_062	hsa05010	Alzheimer disease
+Gene_062	hsa05014	Amyotrophic lateral sclerosis
+Gene_062	hsa05016	Huntington disease
+Gene_062	hsa05017	Spinocerebellar ataxia
+Gene_062	hsa05022	Pathways of neurodegeneration - multiple diseases
+Gene_062	hsa05131	Shigellosis
+Gene_062	hsa05163	Human cytomegalovirus infection
+Gene_062	hsa05165	Human papillomavirus infection
+Gene_062	hsa05167	Kaposi sarcoma-associated herpesvirus infection
+Gene_062	hsa05168	Herpes simplex virus 1 infection
+Gene_062	hsa05170	Human immunodeficiency virus 1 infection
+Gene_062	hsa05200	Pathways in cancer

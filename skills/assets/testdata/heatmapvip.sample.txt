@@ -1,0 +1,13 @@
+sample	group
+GroupA_1	GroupA
+GroupA_2	GroupA
+GroupA_3	GroupA
+GroupA_4	GroupA
+GroupA_5	GroupA
+GroupA_6	GroupA
+GroupB_1	GroupB
+GroupB_2	GroupB
+GroupB_3	GroupB
+GroupB_4	GroupB
+GroupB_5	GroupB
+GroupB_6	GroupB

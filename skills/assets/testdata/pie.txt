@@ -1,0 +1,62 @@
+Metabolite	classA	classB	classC
+Compound_003	Organoheterocyclic compounds	Imidazopyrimidines	Purines and purine derivatives
+Compound_007	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+Compound_002	Organoheterocyclic compounds	Indoles and derivatives
+Compound_006	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+Compound_010	Lipids and lipid-like molecules	Prenol lipids	Diterpenoids
+Compound_013	Lipids and lipid-like molecules	Prenol lipids	Sesquiterpenoids
+Compound_017	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+Compound_021	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+Compound_024	Organoheterocyclic compounds	Pyrans	Pyranones and derivatives
+Compound_028	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+Compound_031	Lipids and lipid-like molecules	Prenol lipids	Sesquiterpenoids
+Compound_035	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+Compound_037	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+Compound_039	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives
+Compound_041	Lipids and lipid-like molecules	Fatty Acyls	Fatty alcohols
+Compound_043	Organoheterocyclic compounds	Oxanes
+Compound_047	Organic nitrogen compounds	Organonitrogen compounds	Amines
+Compound_050	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives
+Compound_053	Benzenoids	Phenols	1-hydroxy-4-unsubstituted benzenoids
+Compound_057	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+Compound_059	Phenylpropanoids and polyketides	Coumarins and derivatives	Hydroxycoumarins
+Compound_063	Organoheterocyclic compounds	Piperidines	Benzylpiperidines
+Compound_065	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+Compound_069	Organoheterocyclic compounds	Benzopyrans	1-benzopyrans
+Compound_073	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+Compound_076	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives
+Compound_080	Benzenoids	Benzene and substituted derivatives	Benzyl alcohols
+Compound_082	Lipids and lipid-like molecules	Steroids and steroid derivatives	Estrane steroids
+Compound_086	Benzenoids	Naphthalenes	Naphthoquinones
+Compound_089	Organic acids and derivatives	Carboxylic acids and derivatives	Tricarboxylic acids and derivatives
+Compound_092	Lipids and lipid-like molecules	Prenol lipids	Monoterpenoids
+Compound_096	Lipids and lipid-like molecules	Prenol lipids	Sesquiterpenoids
+Compound_099	Phenylpropanoids and polyketides	Coumarins and derivatives
+Compound_102	Phenylpropanoids and polyketides	Isoflavonoids	Isoflavonoid O-glycosides
+Compound_104	Organic oxygen compounds	Organooxygen compounds	Ethers
+Compound_106	Phenylpropanoids and polyketides	Cinnamic acids and derivatives	Hydroxycinnamic acids and derivatives
+Compound_110	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters
+Compound_112	Organic acids and derivatives	Organic sulfuric acids and derivatives	Arylsulfates
+Compound_113	Organic acids and derivatives	Carboxylic acids and derivatives	Carboxylic acid derivatives
+Compound_114	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+Compound_115	Organic acids and derivatives	Organic carbonic acids and derivatives	Ureas
+Compound_116	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+Compound_001	Organoheterocyclic compounds	Coumarans
+Compound_005	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+Compound_009	Phenylpropanoids and polyketides	Macrolides and analogues
+Compound_012	Lipids and lipid-like molecules	Steroids and steroid derivatives	Steroid esters
+Compound_016	Lipids and lipid-like molecules	Prenol lipids	Monoterpenoids
+Compound_020	Lipids and lipid-like molecules	Prenol lipids	Sesquiterpenoids
+Compound_023	Organoheterocyclic compounds	Indoles and derivatives	Indolines
+Compound_027	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters
+Compound_030	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphocholines
+Compound_034	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+Compound_036	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters
+Compound_038	Organoheterocyclic compounds	Piperidines
+Compound_040	Organoheterocyclic compounds	Naphthopyrans
+Compound_042	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+Compound_046	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+Compound_049	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+Compound_052	Lipids and lipid-like molecules	Fatty Acyls	Lineolic acids and derivatives
+Compound_056	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+Compound_058	Organoheterocyclic compounds	Diazines	Pyrazines

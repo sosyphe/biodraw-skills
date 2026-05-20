@@ -1,0 +1,6 @@
+.venv
+.Rprofile
+__pycache__
+venv
+renv
+renv.lock
