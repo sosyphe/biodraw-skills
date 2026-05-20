@@ -23,6 +23,9 @@ biodraw-skills/
 ├── skills/
 │   ├── SKILL.md                    # Skill 主入口
 │   ├── assets/
+│   │   ├── fonts/                  # 中文字体支持
+│   │   │   ├──SourceHanSerif       # 思源宋体 (https://github.com/adobe-fonts/source-han-serif)
+│   │   │   └──SourceHanSans        # 思源黑体 (https://github.com/adobe-fonts/source-han-sans)
 │   │   └── testdata/               # 各图表内置示例数据
 │   └── scripts/
 │       ├── <type>.py / <type>.R    # 各图表绘图脚本
@@ -64,6 +67,22 @@ cp -r biodraw-skills/skills ~/.claude/skills/biodraw
 
 Claude Code 会自动读取 `~/.claude/skills/biodraw/SKILL.md`,无需额外配置.
 
+**3. 字体安装(可选)**
+
+脚本缺失字体时不会报错，仅影响中文字符渲染。
+
+**Python 脚本**通过 `matplotlib.font_manager` 自动检测系统 CJK 字体，检测不到时打印提示并回退英文字体
+**R 脚本**通过 `showtext::font_add()` 从固定路径加载字体，路径不存在时静默跳过：
+
+```bash
+# 英文字体(Arial / Times New Roman) 
+sudo apt install ttf-mscorefonts-installer
+# 中文字体(思源黑体 / 宋体)—— 直接复用仓库内置文件
+sudo mkdir -p /usr/share/fonts/truetype/chinese
+sudo cp skills/assets/fonts/*.{otf,ttc} /usr/share/fonts/truetype/chinese/
+sudo fc-cache -fv
+python -c "import matplotlib.font_manager as fm; fm._load_fontmanager(try_read_cache=False)"
+```
 
 ## 使用方式
 
