@@ -267,13 +267,17 @@ class VennChart:
                                       set_labels=[drawlabel[0], drawlabel[1]],
                                       set_colors=colormaplist_opacity)
                     for patch_id in labels.keys():
-                        v.get_label_by_id(patch_id).set_text(labels.get(patch_id, ''))
+                        lbl = v.get_label_by_id(patch_id)
+                        if lbl is not None:
+                            lbl.set_text(labels.get(patch_id, ''))
                 elif ncol == 3:
                     v = venn3(subsets=[set(drawvalue[0]), set(drawvalue[1]), set(drawvalue[2])],
                                       set_labels=[drawlabel[0], drawlabel[1], drawlabel[2]],
                                       set_colors=colormaplist_opacity)
                     for patch_id in labels.keys():
-                        v.get_label_by_id(patch_id).set_text(labels.get(patch_id, ''))
+                        lbl = v.get_label_by_id(patch_id)
+                        if lbl is not None:
+                            lbl.set_text(labels.get(patch_id, ''))
                 else:
                     raise ValueError("绘制成比例Venn图时仅支持两组或三组比较")
         else:
